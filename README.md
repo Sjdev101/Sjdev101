@@ -1,4 +1,3 @@
-# Sjdev101-
 # 👋 Hi, I'm Sohaib Junaid Abbasi
 
 🎯 Aspiring Data Scientist | 📊 Passionate about turning data into actionable insights | 🧠 Lifelong learner
