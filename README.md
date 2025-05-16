@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sohaib Junaid Abbasi
+# 👋 Hi, I'm Sohaib.
 
 🎯 Aspiring Data Scientist | 📊 Passionate about turning data into actionable insights | 🧠 Lifelong learner
 
