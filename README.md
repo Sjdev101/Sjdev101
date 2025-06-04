@@ -6,7 +6,7 @@
 
 ## 🧩 About Me
 
-I'm a recent Electrical Engineering graduate interested in **Data Science, Machine Learning and Robotics. I'm on a journey to build intelligent systems that can solve real-world problems using data. I enjoy working with structured and unstructured datasets, building models, and constantly learning new technologies.
+I'm a recent Electrical Engineering graduate interested in **Data Science, Machine Learning and Robotics**. I'm on a journey to build intelligent systems that can solve real-world problems using data. I enjoy working with structured and unstructured datasets, building models, and constantly learning new technologies.
 
 ---
 
