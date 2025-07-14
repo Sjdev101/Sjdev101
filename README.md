@@ -12,11 +12,11 @@ I'm a recent Electrical Engineering graduate interested in **Data Science, Machi
 
 ## 🛠️ Skills
 
-- **Programming:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Programming:** Python, C++
 - **Data Handling:** Data Wrangling, Cleaning, and Visualization
-- **Machine Learning:** Regression, Classification, Clustering (KNN, SVM, Decision Trees)
-- **Tools:** Jupyter Notebook, Git, VS Code
-- **Soft Skills:** Critical thinking, Problem-solving, Communication
+- **Machine Learning: Tensorflow,Scikit-learn
+- **Version Control**: Git,Github
+- **Soft Skills:** Teamwork, Adaptability, Critical Thinker, Problem-Solving, Communication Skills, Leadership, Self-Learner, Organization Skills, Attention to Detail, Debugging, Critical Analysis Skills
 
 ---
 
@@ -29,19 +29,6 @@ I'm a recent Electrical Engineering graduate interested in **Data Science, Machi
 2. **House Price Prediction**
    - Built a regression model on the Boston Housing Dataset.
    - Applied feature scaling and regularization techniques.
-
-3. **COVID-19 Data Dashboard**
-   - Created a real-time dashboard using Plotly and Dash.
-   - Visualized global pandemic trends.
-
----
-
-## 📚 Currently Learning
-
-- Deep Learning with TensorFlow & Keras
-- SQL for Data Analysis
-- Advanced EDA Techniques
-- Real-world Kaggle Challenges
 
 ---
 
