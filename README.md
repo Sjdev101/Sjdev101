@@ -20,18 +20,6 @@ I'm a recent Electrical Engineering graduate interested in **Data Science, Machi
 
 ---
 
-## 📘 Projects
-
-1. **Customer Churn Prediction**
-   - Used logistic regression and random forests to predict customer churn from telecom data.
-   - Achieved 87% accuracy using hyperparameter tuning.
-
-2. **House Price Prediction**
-   - Built a regression model on the Boston Housing Dataset.
-   - Applied feature scaling and regularization techniques.
-
----
-
 ## 📫 How to Reach Me
 
 - 📧 Email: sohaibjunaid24@gmail.com
