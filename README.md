@@ -18,7 +18,7 @@
   <a href="mailto:sohaibjunaid24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sohaib-junaid&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Sjdev101&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -76,10 +76,10 @@ I'm a recent **Electrical Engineering graduate** on a mission to build intellige
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sohaib-junaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaib-junaid&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sjdev101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sjdev101&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-junaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjdev101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 </div>
 
@@ -88,7 +88,7 @@ I'm a recent **Electrical Engineering graduate** on a mission to build intellige
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohaib-junaid&theme=radical&no-frame=true&no-bg=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sjdev101&theme=radical&no-frame=true&no-bg=true&column=6" />
 </div>
 
 ---
