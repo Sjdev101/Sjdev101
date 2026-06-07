@@ -27,9 +27,7 @@
 
 ## 🧩 About Me
 
-> *"The goal is to turn data into information, and information into insight." — Carly Fiorina*
-
-I'm a recent **Electrical Engineering graduate** on a mission to build intelligent systems that solve real-world problems using data. I enjoy working with structured and unstructured datasets, designing ML pipelines, and exploring the intersection of **Data Science, Machine Learning, and Robotics**.
+I'm a **Electrical Engineering graduate** on a mission to build embedded systems that solve real-world problems using data. I enjoy working with structured and unstructured datasets, designing ML pipelines, and exploring the intersection of **Data Science, Machine Learning, and Embedded Systems**.
 
 ---
 
