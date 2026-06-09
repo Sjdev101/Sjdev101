@@ -73,18 +73,7 @@ I'm a **Electrical Engineering graduate** on a mission to build embedded systems
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sjdev101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sjdev101&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjdev101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-
 </div>
-
----
 
 ## 🏆 GitHub Trophies
 
