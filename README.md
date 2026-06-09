@@ -73,10 +73,6 @@ I'm a **Electrical Engineering graduate** on a mission to build embedded systems
 
 ---
 
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
