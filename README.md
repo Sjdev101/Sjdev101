@@ -75,12 +75,6 @@ I'm a **Electrical Engineering graduate** on a mission to build embedded systems
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sjdev101&theme=radical&no-frame=true&no-bg=true&column=6" />
-</div>
-
 ---
 
 ## 📫 Connect With Me
